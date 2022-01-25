@@ -1,0 +1,12 @@
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\bin\Debug\net5.0\Peli.Domain.deps.json
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\bin\Debug\net5.0\Peli.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\bin\Debug\net5.0\ref\Peli.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\bin\Debug\net5.0\Peli.Domain.pdb
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\obj\Debug\net5.0\Peli.Domain.csproj.AssemblyReference.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\obj\Debug\net5.0\Peli.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\obj\Debug\net5.0\Peli.Domain.AssemblyInfoInputs.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\obj\Debug\net5.0\Peli.Domain.AssemblyInfo.cs
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\obj\Debug\net5.0\Peli.Domain.csproj.CoreCompileInputs.cache
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\obj\Debug\net5.0\Peli.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\obj\Debug\net5.0\ref\Peli.Domain.dll
+C:\Users\javix\Documents\UTM\CUATRIMESTRE 5\Tareas\Aplicaciones Web para 14\Tarea resuelta\Tarea 1\Peli.Domain\obj\Debug\net5.0\Peli.Domain.pdb

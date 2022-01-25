@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Peli.Application/1.0.0": {
+        "dependencies": {
+          "Peli.Domain": "1.0.0",
+          "Peli.Infraestructure": "1.0.0"
+        },
+        "runtime": {
+          "Peli.Application.dll": {}
+        }
+      },
+      "Peli.Domain/1.0.0": {
+        "runtime": {
+          "Peli.Domain.dll": {}
+        }
+      },
+      "Peli.Infraestructure/1.0.0": {
+        "dependencies": {
+          "Peli.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Peli.Infraestructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Peli.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Peli.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Peli.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
